@@ -1,0 +1,4 @@
+Title of work: MarketMaestro: Building and Aligning a Local AI Stock Advisor Agent with InstructLab, Podman AI Lab and LangChain
+Link to work: https://medium.com/@vcaldeir/marketmaestro-building-and-aligning-a-local-ai-stock-advisor-agent-with-instructlab-podman-ai-lab-a0aa0041e843
+License of the work: CC-BY-SA-4.0
+Creator names: Vincent Caldeira
